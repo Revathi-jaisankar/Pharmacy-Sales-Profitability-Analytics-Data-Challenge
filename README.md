@@ -13,10 +13,23 @@ This was my first data challenge in zoomcharts, providing hands-on experience in
 ## 📌 Project Overview
 The dashboard analyzes pharmaceutical sales data across multiple countries, regions, and pharmacies for **2024–2025**.  
 
-**Key financial Pages monitored:**  
-- Sales & Profit overview  
-- Pharmacy Performance  
-- Products & Promotional Analytics  
+## 📊 Dashboard Features (Built in Power BI)
+
+ **Page 1: Sales & Profit Overview**
+
+This Page dashboard help to find the insights about the total revenue & Profit across country, Region and Pharmacy
+![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Overview%20%26%20Order.png)
+
+ **Page 2: Pharmacy Performance**
+
+This Page dashboard help to find the insights about the Pharmacy performance.
+![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Operations%20insights.png)
+
+ **Page 3: Product & Promotional Analysis**
+
+This Page dashboard help to find the insights about the Products and Promotional details.
+![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Customer%20Sentiment.png)
+
 
 **Goal:** Support data-driven decisions and identify profitability drivers.
 
