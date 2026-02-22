@@ -18,17 +18,17 @@ The dashboard analyzes pharmaceutical sales data across multiple countries, regi
  **Page 1: Sales & Profit Overview**
 
 This Page dashboard help to find the insights about the total revenue & Profit across country, Region and Pharmacy
-![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Overview%20%26%20Order.png)
+![img](https://github.com/Revathi-jaisankar/Pharmacy-Sales-Profitability-Analytics-Data-Challenge/blob/main/page1.png)
 
  **Page 2: Pharmacy Performance**
 
 This Page dashboard help to find the insights about the Pharmacy performance.
-![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Operations%20insights.png)
+![img](https://github.com/Revathi-jaisankar/Pharmacy-Sales-Profitability-Analytics-Data-Challenge/blob/main/page%202.png)
 
  **Page 3: Product & Promotional Analysis**
 
 This Page dashboard help to find the insights about the Products and Promotional details.
-![img](https://github.com/Revathi-jaisankar/Crisis-Recovery-to-an-Online-Food-Delivery-Startup-for-QuickBite-Express/blob/main/images/Customer%20Sentiment.png)
+![img](https://github.com/Revathi-jaisankar/Pharmacy-Sales-Profitability-Analytics-Data-Challenge/blob/main/page%203.png)
 
 
 **Goal:** Support data-driven decisions and identify profitability drivers.
